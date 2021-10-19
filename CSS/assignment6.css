@@ -1,0 +1,64 @@
+html, body {
+}
+
+img {
+  width: 80%;
+  max-width: 1920px;
+  margin-right: -2%;
+  margin-left: 10%;
+  margin-bottom: -2%;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 600%;
+  line-height: 90%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  color: red;
+}
+
+h2 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: Medium 500;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  color: red;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  line-height: 1.8;
+  color: red;
+}
+
+p {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px;
+  line-height: 1.8;
+  color: red;
+}
+
+.leftcolumn {
+  float: left;
+  min-width: 300px;
+  width: 35%;
+  margin-right: -2%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+}
+
+.rightcolumn {
+  min-width: 300px;
+  float: left;
+  width: 35%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+}
